@@ -25,7 +25,7 @@ def decrypt(message):
 
 # main
 print(
-    "Welcome to Caepy, python's standalone caesar cipher encrypter and decrypter!\nWritten by Marcos Gómez (http://margobra8.ml/)")
+    "Welcome to Caepy, python's standalone caesar cipher encrypter and decrypter!\nWritten by Marcos Gómez (http://margobra8.ml/)\nVersion 1.0")
 # input("\nPress [ENTER] to launch...\n")
 print("\nTIP: If you want to decrypt a message press [ENTER] before entering anything.\n")
 msg = input("Your message to encode? ")
