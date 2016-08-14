@@ -1,7 +1,7 @@
 # [Caepy](https://github.com/margobra8/Caepy/releases)
 
 
-Caepy is an **encryption and decryption** utility using the **[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) that runs in standalone **python** and **executable** file.
+Caepy is an **encryption and decryption** utility using the **[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)** that runs in standalone **python** and **executable** file.
 
 ![Screenshot](screenshot.png)
 
