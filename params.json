@@ -1,0 +1,6 @@
+{
+  "name": "Caepy",
+  "tagline": "Caesar cipher encryption and decryption utility in Python",
+  "body": "# [Caepy](https://github.com/margobra8/Caepy/releases)\r\n\r\n![Downloads](https://img.shields.io/github/downloads/margobra8/Caepy/total.svg)\r\n\r\nCaepy is an **encryption and decryption** utility using the **[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)** that runs in standalone **python** and **executable** file.\r\n\r\n![Screenshot](https://i.imgur.com/9akS4TR.png)\r\n\r\n----------\r\n\r\n\r\nInformation\r\n-------------\r\n\r\n> **Current build status:**\r\n\r\n> - *14 August 2016.*\r\n>   - v1.0 has been released! ***Download it [here](https://github.com/margobra8/Caepy/releases)***!\r\n\r\nInstallation\r\n------------\r\n\r\nCaepy is compatible with the following environments:\r\n\r\n - Any OS that runs **`Python 3.5`**:\r\n\t - Caepy actually uses no external modules/libraries so a clean install of it is enough to run it seamlessly.\r\n - Windows XP/Vista/7/8+/10:\r\n\t - From installer installation\r\n\t - From zip package\r\n\r\nFuture improvements\r\n-----------\r\n\r\n - GUI\r\n - More surprises\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
