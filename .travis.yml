@@ -6,4 +6,5 @@ python:
   - "3.3"
   - "3.4"
   - "3.5"
-script: nosetest
+install: "pip install -r --update requirements.txt"
+script: nosetests
