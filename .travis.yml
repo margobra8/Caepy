@@ -4,4 +4,4 @@ python:
 install:
   "pip install -U -r requirements.txt"
 script:
-  python test_me.py
+  python test_me.py < textscripts.txt
