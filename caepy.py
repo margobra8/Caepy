@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 def helper(message, shift):
     message = message.lower()
     secret = ""
