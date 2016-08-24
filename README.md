@@ -1,6 +1,6 @@
 # [Caepy](https://github.com/margobra8/Caepy/releases)
 
-![Downloads](https://img.shields.io/github/downloads/margobra8/Caepy/total.svg)
+![Downloads](https://img.shields.io/github/downloads/margobra8/Caepy/total.svg) [![Build Status](https://travis-ci.org/margobra8/Caepy.svg?branch=master)](https://travis-ci.org/margobra8/Caepy)
 
 Caepy is an **encryption and decryption** utility using the **[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)** that runs in standalone **python** and **executable** file.
 
