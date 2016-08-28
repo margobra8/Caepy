@@ -2,6 +2,7 @@
 __pycache__/
 # pyinstaller build
 build/
+.idea/
 
 # C extensions
 *.so
